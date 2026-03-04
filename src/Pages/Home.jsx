@@ -17,7 +17,7 @@ import BoltIcon from "@mui/icons-material/Bolt";
 import PaletteIcon from "@mui/icons-material/Palette";
 import CodeIcon from "@mui/icons-material/Code";
 import TrendingUpIcon from "@mui/icons-material/TrendingUp";
-import Carousel from "../Components/Carrousel";
+import Carousel from "../Components/Carousel";
 
 const features = [
   {

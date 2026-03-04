@@ -2,10 +2,10 @@ import { Routes, Route } from 'react-router-dom'
 import { Box } from '@mui/material'
 import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
-import Home from './pages/Home'
-import Services from './pages/Services'
-import Portfolio from './pages/Portfolio'
-import Contact from './pages/Contact'
+import Home from './Pages/Home'
+import Services from './Pages/Services'
+import Portfolio from './Pages/Portfolio'
+import Contact from './Pages/Contact'
 
 export default function App() {
   return (
